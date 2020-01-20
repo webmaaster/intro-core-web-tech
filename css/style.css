@@ -1,0 +1,35 @@
+h1 {
+  color: gold;
+  text-align: center;
+  font-size: 60px;
+  background-color: green;
+  width: 50%;
+  height: 300px;
+  border-radius: 20px;
+}
+
+h2 {
+  background: black;
+  text-align: center;
+  font-size: 35px;
+  width: 50%;
+  height: 200px;
+  border-radius: 20px;
+
+}
+
+p {
+  color: blue;
+  background: gray;
+}
+
+.red-color {
+  color: red;
+}
+
+
+
+
+
+
+
